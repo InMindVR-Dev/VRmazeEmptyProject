@@ -1,0 +1,9 @@
+
+*.pdb
+obj/Release/EmptyVRmazeProject.csproj.FileListAbsolute.txt
+obj/Release/EmptyVRmazeProject.exe
+obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Release/EmptyVRmazeProject.csproj.AssemblyReference.cache
+obj/Release/EmptyVRmazeProject.csproj.CopyComplete
+obj/Release/EmptyVRmazeProject.csproj.CoreCompileInputs.cache
